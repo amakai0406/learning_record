@@ -1,3 +1,6 @@
+2024年6月3日(月)
+1h デモ開発　DDL DML DCL　・　外部キー制約について
+
 2024年6月2日(日)
 3h デモ開発　feature/add-search-formブランチを日付検索の不具合を修正しmerge　blogsテーブルのuser_idを削除
 
