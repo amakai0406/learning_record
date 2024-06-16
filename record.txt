@@ -1,4 +1,7 @@
 2024年6月16日(日)
+2.5h　デモ開発　新規ねこ登録画面を作成プルリク　 Files changed内のコード確認　
+
+2024年6月16日(日)
 1.5h　デモ開発　猫の新規登録画面コード内容を再確認　CatController.php　StoreCatRequest.php 
 
 2024年6月15日(土)
